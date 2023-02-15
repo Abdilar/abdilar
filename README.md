@@ -17,13 +17,14 @@
 <a href="https://t.me/saeed_abdilar" target="_blank"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="24"/></a>
 <a href="www.linkedin.com/in/saeed-abdilar/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="24"/></a>
 
+<strong>🔭 I’m currently working on Snapp! Shop</strong>
 
 <!--
 **Abdilar/abdilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Adanic
+- 
 - 🌱 I’m currently learning PLSQL
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
