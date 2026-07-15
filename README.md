@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Saeed Abdilar</h1>
 <h3 align="center">Senior Frontend Engineer specializing in React, TypeScript, and scalable frontend architectures.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdilar&label=Profile%20views&color=0e75b6&style=flat" alt="abdilar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdilar" alt="abdilar" /></a> </p>
+<p align="left"> <img src="https://avatars.githubusercontent.com/u/40013688?s=96&v=4" alt="abdilar" /> </p>
 
 - I build high-performance web applications, improve frontend architecture, and help teams deliver reliable products at scale.
 - Currently working on large-scale e-commerce products at SnappShop. [Snapp! Shop](https://snappshop.ir/)
