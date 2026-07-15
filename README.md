@@ -1,20 +1,31 @@
 
 <h1 align="center">Hi 👋, I'm Saeed Abdilar</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
+<h3 align="center">Senior Frontend Engineer specializing in React, TypeScript, and scalable frontend architectures.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdilar&label=Profile%20views&color=0e75b6&style=flat" alt="abdilar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdilar" alt="abdilar" /></a> </p>
 
-- 🔭 I’m currently working on [Snapp! Shop](https://snappshop.ir/)
+- I build high-performance web applications, improve frontend architecture, and help teams deliver reliable products at scale.
+- Currently working on large-scale e-commerce products at SnappShop. [Snapp! Shop](https://snappshop.ir/)
+- How to reach me **saeed.abdilar@gmail.com**
 
-- 🌱 I’m currently learning **Reactjs, Vuejs, Angular and etc**
+## Focus Areas
 
-- 💬 Ask me about **react, vue, gsap, angular, and etc**
+- Frontend Architecture
+- React & Next.js Applications
+- Web Performance Optimization
+- Developer Experience
+- Frontend Testing
 
-- 📫 How to reach me **saeed.abdilar@gmail.com**
+## Expertise
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/saeed-abdilar/](https://www.linkedin.com/in/saeed-abdilar/)
+- React.js & Next.js
+- TypeScript
+- Frontend Architecture
+- Performance Optimization
+- Design Systems
+- Testing Strategies
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
