@@ -96,4 +96,4 @@ An open-source React countdown component published as an npm package, with confi
 - Email: [saeed.abdilar@gmail.com](mailto:saeed.abdilar@gmail.com)
 
 I’m interested in Senior Frontend Engineer opportunities in Australia and Europe, including roles that provide relocation or visa sponsorship.
-```
+
