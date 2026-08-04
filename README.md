@@ -1,42 +1,99 @@
 
-<h1 align="center">Hi 👋, I'm Saeed Abdilar</h1>
-<h3 align="center">Senior Frontend Engineer specializing in React, TypeScript, and scalable frontend architectures.</h3>
+# Hi, I'm Saeed Abdilar
 
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/40013688?s=96&v=4" alt="abdilar" /> </p>
+### Senior Frontend Engineer | React, Next.js & TypeScript
 
-- I build high-performance web applications, improve frontend architecture, and help teams deliver reliable products at scale.
-- Currently working on large-scale e-commerce products at SnappShop. [Snapp! Shop](https://snappshop.ir/)
-- How to reach me **saeed.abdilar@gmail.com**
+I’m a Senior Frontend Engineer with 8+ years of experience building and improving web applications across e-commerce, digital banking, telecommunications, and design platforms.
 
-## Focus Areas
+I’ve worked on products serving millions of users, led frontend teams, improved application performance, and helped teams build more maintainable and reliable frontend systems.
 
-- Frontend Architecture
-- React & Next.js Applications
-- Web Performance Optimization
-- Developer Experience
-- Frontend Testing
+My main areas of focus are:
 
-## Expertise
+- Frontend architecture and scalable React applications
+- Performance analysis and optimization
+- Type-safe development with TypeScript
+- Unit, integration, and end-to-end testing
+- Developer experience and code quality
+- Technical leadership and mentoring
 
-- React.js & Next.js
+## Current Project
+
+### [Job Seeker Bot](https://github.com/Abdilar/job-seeker-bot)
+
+A TypeScript-based Telegram bot that collects job opportunities from multiple sources, normalizes and stores them in PostgreSQL, and delivers relevant listings to subscribers.
+
+The project is being developed with a focus on clear boundaries, testability, and maintainable architecture.
+
+**Key technologies:** TypeScript, Node.js, Playwright, Prisma, PostgreSQL and Telegram Bot API.
+
+## Featured Projects
+
+### [Job Seeker Bot](https://github.com/Abdilar/job-seeker-bot)
+
+Job aggregation and delivery platform demonstrating Clean Architecture, Repository Pattern, dependency injection, web scraping, database design, and scheduled background processing.
+
+### [Frontend Engineering Portfolio](https://github.com/Abdilar/my-portfolio)
+
+My professional portfolio, built with Next.js and TypeScript to present selected projects, technical case studies, and frontend engineering experience.
+
+### [React Master Detail](https://github.com/Abdilar/react-master-detail)
+
+An open-source responsive master-detail React component with configurable layouts, Storybook documentation, and RTL support.
+
+### [Countdown Timer](https://github.com/Abdilar/countdown-timer)
+
+An open-source React countdown component published as an npm package, with configurable formats, custom styling, and Storybook examples.
+
+## Selected Experience
+
+- Led frontend engineers and contributed to technical decisions on a large-scale e-commerce platform serving more than one million monthly users.
+- Reduced redundant API requests by 30% through client-side caching strategies.
+- Led and mentored frontend developers working on a digital banking platform serving more than two million users.
+- Designed a Webpack-based frontend monorepo for multiple banking applications.
+- Improved frontend testing workflows using unit, integration, and end-to-end testing practices.
+- Optimized React rendering and real-time data visualization performance.
+
+## Technologies
+
+**Frontend**
+
+- React
+- Next.js
 - TypeScript
-- Frontend Architecture
-- Performance Optimization
-- Design Systems
-- Testing Strategies
+- JavaScript
+- Zustand
+- Storybook
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/abdilar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abdilar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saeed-abdilar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saeed-abdilar" height="30" width="40" /></a>
-</p>
+**Testing and Quality**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+- Jest
+- Testing Library
+- Playwright
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdilar&show_icons=true&locale=en&layout=compact" alt="abdilar" /></p>
+**Backend and Infrastructure**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdilar&show_icons=true&locale=en" alt="abdilar" /></p>
+- Node.js
+- Prisma
+- PostgreSQL
+- Docker
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdilar&" alt="abdilar" /></p>
+## Engineering Interests
 
+- Scalable frontend architecture
+- Web performance
+- Design systems
+- Testing strategies
+- Developer tooling
+- Technical documentation
+- Engineering leadership
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/saeed-abdilar/)
+- [GitHub](https://github.com/Abdilar)
+- [Resume](YOUR_RESUME_URL)
+- [Portfolio](YOUR_PORTFOLIO_URL)
+- Email: [saeed.abdilar@gmail.com](mailto:saeed.abdilar@gmail.com)
+
+I’m interested in Senior Frontend Engineer opportunities in Australia and Europe, including roles that provide relocation or visa sponsorship.
+```
